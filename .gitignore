@@ -1,0 +1,9 @@
+**/.vs/
+**/bin/
+**/obj/
+**/__pycache__/
+**/node_modules/
+**/*secret*
+**/*.log
+**/.DS_Store
+**/Thumbs.db
